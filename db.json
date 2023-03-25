@@ -2,9 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "آیین محبت"
+    }, {
+      "id": 2,
+      "title": "چهل سال صعود"
     }
-  ],
+      
+      ],
   "profile": {
     "name": "typicode"
   }
